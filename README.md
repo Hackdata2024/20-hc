@@ -1,15 +1,35 @@
-Mental Health Project Readme
-Project Overview
+# Project Title
+
+Mental -Health and Wellbeing.
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About the Project
+
 Welcome to our Mental Health Project! This project aims to create a supportive and inclusive platform for individuals seeking resources and assistance related to mental health. Our goal is to promote mental well-being, provide valuable information, and create a sense of community for those navigating mental health challenges.
-Features
-Our Mental Health Project comes with a variety of features designed to support users:
 
-Resource Hub: A curated collection of articles, videos, and other resources on mental health topics.
 
-Community Forums: A space for users to connect, share experiences, and offer support to one another.
 
-Mood Tracker: Users can log and track their moods over time, gaining insights into their emotional well-being.
+### Prerequisites
 
-Therapist Directory: A directory of mental health professionals, making it easier for users to find and connect with therapists.
+WE have use html css php and javascript for it.
 
-Anonymous Chat Support: A secure and confidential chat system for users to seek immediate support.
+# Clone the repository
+git clone https://github.com/Hackdata2024/20-hc
+
+# Navigate to the project directory
+cd your-project
+
+# Install dependencies
+npm install
+
+
